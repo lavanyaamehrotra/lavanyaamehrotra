@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Currently pursuing **Computer Science**
-- 💻 Interested in **Data Structures, Algorithms, Web Development, and Open Source**
+- 💻 Interested in **Data Structures, Algorithms, Web Development**
 - 🚀 Constantly learning and improving my problem-solving skills
 - 🧠 Strong believer in **consistency & clean code**
 - 📫 Reach me at: **lavanyamehrotra74@gmail.com**
