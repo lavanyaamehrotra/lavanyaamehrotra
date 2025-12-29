@@ -47,9 +47,14 @@
 
 ## 🚀 Projects
 
-- 🔹 **MovieMate**  
-  Description of the project and what problem it solves  
-  🔗 [GitHub Repository]()
+- 🔹 **MovieMate**
+• Developed “Movie Mate”, a full-stack web application similar to BookMyShow, aimed at providing an intuitive platform
+for booking movie tickets.
+• Implemented both front-end and back-end technologies to create a seamless user experience, including features for
+browsing, booking, and managing movie reservations.
+• Project focused on delivering a complete, user-friendly solution, integrating responsive design, payment gateways, and
+real-time updates for an engaging ticket-booking experience.
+  🔗 [GitHub Repository](https://github.com/lavanyaamehrotra/Movie-Mate_1)
 
 ---
 
